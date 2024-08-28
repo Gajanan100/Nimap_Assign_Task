@@ -8,7 +8,7 @@ public class HelloController {
 	public HelloController() {
 		// TODO Auto-generated constructor stub
 		
-		System.out.println("Hello controller is called.........");
+		System.out.println("Hello controller is called......");
 	}
 
 }
